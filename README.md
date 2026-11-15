@@ -1,4 +1,26 @@
-# Pooled-shape quantile forecaster — make.fun polymarket-nvidia-ceo-forecast-01
+# makefun-polymarket-nvidia-ceo-forecast
+
+makefun-polymarket-nvidia-ceo-forecast
+
+**Run**
+```bash
+python3 main.py
+```
+
+**Stack** · Python
+
+## Details
+
+Pooled-shape quantile forecaster — make.fun polymarket-nvidia-ceo-forecast-01
+
+**Run**
+```bash
+python3 main.py
+```
+
+**Stack** · Python
+
+## Details
 
 A deterministic forecasting program (Python 3.13, standard library
 only, no network) for Polymarket's "Next CEO of NVIDIA?" event. For
@@ -48,3 +70,13 @@ MAKEFUN_INPUT_DIR=input MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
 Entrant: @urelkdubdqwr · License: MIT
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
